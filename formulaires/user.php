@@ -1,3 +1,3 @@
 <?php
-echo $_GET['name'];
-echo $_GET['lastName'];
+echo $POST['name'];
+echo $POST['lastName'];
