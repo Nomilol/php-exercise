@@ -1,7 +1,3 @@
-<?php
-setcookie('userName', $userName, time() + 3600);
-setcookie('password', $password, time() + 3600);
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
