@@ -1,3 +1,3 @@
 <?php
-$today = date("j/m/y");
+$today = date("j/m/o");
 echo $today;
